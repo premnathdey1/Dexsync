@@ -1,1 +1,1 @@
-# Dexsync
+# connectWallet
